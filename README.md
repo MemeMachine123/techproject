@@ -1,2 +1,2 @@
-# schoolsite
-Just a small mock-up marketplace.
+#TechProject
+##Date: S1 G6
